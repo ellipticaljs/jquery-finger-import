@@ -1,0 +1,14 @@
+{
+  "name": "jquery-finger-import",
+  "description": "reference the jquery finger plugin using html imports",
+  "version": "1.0.0",
+  "author": "S. Francis",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ellipticaljs/jquery-finger-import.git"
+  },
+  "dependencies": {
+
+  }
+}

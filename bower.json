@@ -1,0 +1,31 @@
+{
+  "name": "jquery-finger-import",
+  "description": "reference the jquery finger plugin using html imports",
+  "version": "1.0.0",
+  "main": "jquery-finger-import.html",
+  "authors": [
+    "S. Francis"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "web",
+    "components",
+    "jquery",
+    "finger",
+    "touch events",
+    "html imports"
+  ],
+  "moduleType": [],
+  "homepage": "https://github.com/ellipticaljs/jquery-finger-import",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery-import": "~1.0.3",
+    "jquery.finger": "~0.1.5"
+  }
+}
